@@ -1,12 +1,12 @@
 ### Hi there 👋
-I am Yabin Zhang. Now, I'm a Ph.D candidate at The Hong Kong Polytechnic University. 
+I am Yabin Zhang. Now, I'm a PostDoc at Stanford University. 
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/YBZH/count.svg" />
 </p>
 
 ### Contact
-- e-mail: csybzhang@comp.polyu.edu.hk 
+- e-mail: ybzhang815@gmail.com
 - google scholar: https://scholar.google.com/citations?user=p0GLwtoAAAAJ&hl=en
 - homepage: https://ybzh.github.io/
 
