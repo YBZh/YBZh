@@ -1,14 +1,12 @@
 ### Hi there 👋
-I am Yabin Zhang. Now, I'm a PostDoc at Stanford University. 
+I am Yabin Zhang. Now, I'm a Professor in HITSZ. Before that, I was a PostDoc at Stanford University and I got my PhD from PolyU HK.
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/YBZH/count.svg" />
-</p>
 
 ### Contact
 - e-mail: ybzhang815@gmail.com
 - google scholar: https://scholar.google.com/citations?user=p0GLwtoAAAAJ&hl=en
 - homepage: https://ybzh.github.io/
+- Chinese homepage: https://homepage.hit.edu.cn/zhangyabin
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YBZh&show_icons=true" alt="YBZh" /></p>
 
